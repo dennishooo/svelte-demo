@@ -43,6 +43,7 @@
 </script>
 
 <a href="/store">to store</a>
+<a href="/syntax">to syntax</a>
 
 <h1>{message}</h1>
 <div>let's try <strong>svelte!</strong></div>
